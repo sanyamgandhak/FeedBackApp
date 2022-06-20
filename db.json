@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "This app is awesome ",
+      "rating": 8,
+      "id": 1
+    },
+    {
+      "text": "Creator of this app is awesome ",
+      "rating": 9,
+      "id": 2
+    }
+  ]
+}

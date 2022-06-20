@@ -12,7 +12,7 @@ function App(){
     return(
         <FeedbackProvider>
             <Router>
-            <Header bgColor='red' textColor='blue' name={'sayam'} />
+            <Header textColor='blue' name={'sayam'} />
             <div className='container'>
                 
                 <Routes>

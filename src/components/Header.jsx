@@ -9,7 +9,7 @@ function Header({name,bgColor,textColor}){
     return  (
         <header style={headerStyles}>
             <div className="container"> 
-            <h2>Hello {name}</h2>
+            <h2>Feedback App </h2>
             </div>
         </header>
     )
