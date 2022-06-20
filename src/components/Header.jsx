@@ -9,6 +9,8 @@ function Header({name,bgColor,textColor}){
     return  (
         <header style={headerStyles}>
             <div className="container"> 
+
+        
             <h2>Feedback App </h2>
             </div>
         </header>
